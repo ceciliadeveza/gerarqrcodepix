@@ -69,7 +69,7 @@ GET https://gerarqrcodepix.com.br/api/v1?[parametros]
 | `valor`   	| Não         	| Valor do QrCode. Exemplo: 1200.99                                                                                                                                                                     	|
 | `saida`   	| Sim         	| Use `br` para string e `qr` para imagem.                                                                                                                                                              	|
 | `tamanho` 	| Não         	| Define a altura do QrCode em pixels.                                                                                                                                                                  	|
-| `chave`   	| Sim         	| Chave Pix cadastrada em qualquer PSP. <br><br>Exemplos:<br>- Telefone: +5531912345678<br>- CPF ou CNPJ: 0123456789<br>- E-mail: teste@pix.com.br<br>- Aleatória: 2aa96c40-d85f-4b98-b29f-d158a1c45f7f 	|
+| `chave`   	| Sim         	| Chave Pix cadastrada em qualquer PSP. <br><br>Exemplos:<br>- Telefone: +5531912345678<br>- CPF ou CNPJ: 01234567890<br>- E-mail: teste@pix.com.br<br>- Aleatória: 2aa96c40-d85f-4b98-b29f-d158a1c45f7f 	|
 
 [![Rodar exemplo](https://gerarqrcodepix.com.br/run_button.jpg)](https://gerarqrcodepix.com.br/api/v1?nome=Cec%C3%ADlia%20Dev%C3%AAza&cidade=Ouro%20Preto&valor=10.00&saida=qr&chave=2aa96c40-d85f-4b98-b29f-d158a1c45f7f)
 
