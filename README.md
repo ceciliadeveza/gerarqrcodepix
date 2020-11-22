@@ -109,7 +109,7 @@ Se preferir, você pode utilizar esta collection no Postman para realizar seus t
 
 # Doações
 
-Esta API facilitou sua geração de qrcodes Pix ou contribuiu para que você entendesse um pouco mais sobre eles?
+Este site facilitou sua geração de QrCodes Pix ou contribuiu para que você entendesse um pouco mais sobre eles?
 Faça uma doação ;)
 
 ![Qrcode estático](https://gerarqrcodepix.com.br/api/v1?nome=Cec%C3%ADlia%20Dev%C3%AAza&cidade=Ouro%20Preto&tamanho=256&saida=qr&chave=2aa96c40-d85f-4b98-b29f-d158a1c45f7f)
