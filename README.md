@@ -73,7 +73,7 @@ GET https://gerarqrcodepix.com.br/api/v1?[parametros]
 
 [![Rodar exemplo](https://run.pstmn.io/button.svg)](https://gerarqrcodepix.com.br/api/v1?nome=Cec%C3%ADlia%20Dev%C3%AAza&cidade=Ouro%20Preto&valor=10.00&saida=qr&chave=2aa96c40-d85f-4b98-b29f-d158a1c45f7f)
 
-## Gerar qrcodes dinâmicos
+## Parâmetros do QrCode dinâmico
 
 | Parâmetro  	| Obrigatório 	| Descrição                                                                                                                	|
 |------------	|-------------	|--------------------------------------------------------------------------------------------------------------------------	|
@@ -87,7 +87,7 @@ GET https://gerarqrcodepix.com.br/api/v1?[parametros]
 
 [![Rodar exemplo](https://run.pstmn.io/button.svg)](https://gerarqrcodepix.com.br/api/v1?nome=Cec%C3%ADlia%20Dev%C3%AAza&cidade=Ouro%20Preto&saida=qr&payload=qrcodes-pix.gerencianet.com.br/v2/232023aab07f40ec9a383e47792f7345)
 
-## Gerar qrcodes a partir de um BrCode já criado
+## Parâmetros para geração de imagem com BrCode pronto
 
 | Parâmetro 	| Obrigatório 	| Descrição                                                                         	|
 |-----------	|-------------	|-----------------------------------------------------------------------------------	|
