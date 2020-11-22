@@ -93,7 +93,7 @@ GET https://gerarqrcodepix.com.br/api/v1?[parametros]
 | `brcode`  	| Sim         	| Utilize quando já tiver o BrCode criado e deseja apenas gerar a imagem do QrCode. 	|
 | `tamanho` 	| Não         	| Define a altura do QrCode em pixels.                                              	|
 
-[![Rodar exemplo](https://gerarqrcodepix.com.br/run_button.jpg)](https://gerarqrcodepix.com.br/api/v1?brcode=00020126580014BR.GOV.BCB.PIX01362AA96C40-D85F-4B98-B29F-D158A1C45F7F5204000053039865802BR5914CECILIA%20DEVEZA6010OURO%20PRETO6304F6E5&tamanho=256)
+[![Rodar exemplo](https://gerarqrcodepix.com.br/run_button.jpg)](https://gerarqrcodepix.com.br/api/v1?brcode=00020126580014BR.GOV.BCB.PIX01362AA96C40-D85F-4B98-B29F-D158A1C45F7F5204000053039865802BR5914CECILIA%20DEVEZA6010OURO%20PRETO6304E3E5&tamanho=256)
 
 ---
 
