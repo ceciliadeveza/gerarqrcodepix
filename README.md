@@ -71,7 +71,7 @@ GET https://gerarqrcodepix.com.br/api/v1?[parametros]
 | `tamanho` 	| Não         	| Define a altura do QrCode em pixels.                                                                                                                                                                  	|
 | `chave`   	| Sim         	| Chave Pix cadastrada em qualquer PSP. <br><br>Exemplos:<br>- Telefone: +5531912345678<br>- CPF ou CNPJ: 0123456789<br>- E-mail: teste@pix.com.br<br>- Aleatória: 2aa96c40-d85f-4b98-b29f-d158a1c45f7f 	|
 
-[![Rodar exemplo](https://gerarqrcodepix.com.br/run_button.svg)](https://gerarqrcodepix.com.br/api/v1?nome=Cec%C3%ADlia%20Dev%C3%AAza&cidade=Ouro%20Preto&valor=10.00&saida=qr&chave=2aa96c40-d85f-4b98-b29f-d158a1c45f7f)
+[![Rodar exemplo](https://gerarqrcodepix.com.br/run_button.jpg)](https://gerarqrcodepix.com.br/api/v1?nome=Cec%C3%ADlia%20Dev%C3%AAza&cidade=Ouro%20Preto&valor=10.00&saida=qr&chave=2aa96c40-d85f-4b98-b29f-d158a1c45f7f)
 
 ## Parâmetros do QrCode dinâmico
 
@@ -83,7 +83,7 @@ GET https://gerarqrcodepix.com.br/api/v1?[parametros]
 | `tamanho`  	| Não         	| Define a altura do QrCode em pixels.                                                                                     	|
 | `location` 	| Sim         	| URL do payload retornada por uma API Pix.<br>Exemplo: qrcodes-pix.gerencianet.com.br/v2/232023aab07f40ec9a383e47792f7345 	|
 
-[![Rodar exemplo](https://gerarqrcodepix.com.br/run_button.svg)](https://gerarqrcodepix.com.br/api/v1?nome=Cec%C3%ADlia%20Dev%C3%AAza&cidade=Ouro%20Preto&saida=qr&payload=qrcodes-pix.gerencianet.com.br/v2/232023aab07f40ec9a383e47792f7345)
+[![Rodar exemplo](https://gerarqrcodepix.com.br/run_button.jpg)](https://gerarqrcodepix.com.br/api/v1?nome=Cec%C3%ADlia%20Dev%C3%AAza&cidade=Ouro%20Preto&saida=qr&location=qrcodes-pix.gerencianet.com.br/v2/232023aab07f40ec9a383e47792f7345)
 
 
 ## Parâmetros para geração de imagem com BrCode pronto
@@ -93,7 +93,7 @@ GET https://gerarqrcodepix.com.br/api/v1?[parametros]
 | `brcode`  	| Sim         	| Utilize quando já tiver o BrCode criado e deseja apenas gerar a imagem do QrCode. 	|
 | `tamanho` 	| Não         	| Define a altura do QrCode em pixels.                                              	|
 
-[![Rodar exemplo](https://gerarqrcodepix.com.br/run_button.svg)](https://gerarqrcodepix.com.br/api/v1?brcode=00020126580014BR.GOV.BCB.PIX01362AA96C40-D85F-4B98-B29F-D158A1C45F7F5204000053039865802BR5914CECILIA%20DEVEZA6010OURO%20PRETO6304F6E5&tamanho=256)
+[![Rodar exemplo](https://gerarqrcodepix.com.br/run_button.jpg)](https://gerarqrcodepix.com.br/api/v1?brcode=00020126580014BR.GOV.BCB.PIX01362AA96C40-D85F-4B98-B29F-D158A1C45F7F5204000053039865802BR5914CECILIA%20DEVEZA6010OURO%20PRETO6304F6E5&tamanho=256)
 
 ---
 
