@@ -110,8 +110,9 @@ Se preferir, você pode utilizar esta collection no Postman para realizar seus t
 
 # Doações
 
-Este site facilitou sua geração de QrCodes Pix ou contribuiu para que você entendesse um pouco mais sobre eles?
-Faça uma doação. Todo valor recebido vai direto para a conta do CódigoX, uma ONG criada para promover o acesso à área de tecnologia para meninas em situação de vulnerabilidade social.
+Este site facilitou sua geração de QrCodes Pix ou contribuiu para que você entendesse um pouco mais sobre eles? Faça uma doação.
+
+Todo valor recebido vai direto para a conta do [Código X](https://codigox.ong.br), uma ONG criada para promover o acesso à área de tecnologia para meninas em situação de vulnerabilidade social.
 
 ![Qrcode estático](https://gerarqrcodepix.com.br/api/v1?brcode=00020126430014BR.GOV.BCB.PIX0121CODIGOX.ONG@GMAIL.COM5204000053039865802BR5907CodigoX6010Ouro%20Preto62070503***6304B308)
 
